@@ -70,3 +70,8 @@ cp courses.csv courses_test.csv
 ./insert_data.sh
 ./insert_data.sh
 psql --username=freecodecamp --dbname=postgres
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+chmod +x insert_data.sh
+./insert_data.sh
